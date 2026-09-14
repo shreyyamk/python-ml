@@ -1,6 +1,0 @@
-s=(1,0,2,9,3,8)
-print(s)
-print(len(s))
-print(max(s))
-print(min(s))
-print(sum(s))
